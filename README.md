@@ -1,4 +1,8 @@
 # Film Junky Union — IMDb Review Sentiment Classifier
+## NOTE: ## 
+I could not install Intels GPU extension for Torch and could not run the BERT portion of my project locally. I used Colab to access a GPU compatible with torch 'cuda'. This notebook in my repo is a copy of the Colab Notebook. 
+**You can find the Colab Notebook here: https://colab.research.google.com/drive/1ieHZcyKJB5AFtj6L6L5kYCrV_rRTTDTm?usp=sharing** 
+
 ## Project Overview: ##
 The Film Junky Union, a community for classic movie enthusiasts, is developing a system to filter and categorize movie reviews.
 The goal of this project is to train a machine learning model that can automatically detect negative IMDb movie reviews.
